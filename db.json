@@ -1,0 +1,15 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Изучить Bulletproof React на чистом React",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Проверить работу RTK Query, Slice и Zod",
+      "completed": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
